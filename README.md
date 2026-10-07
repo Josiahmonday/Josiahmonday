@@ -10,7 +10,7 @@
 I'm always excited to collaborate, learn, and take on new challenges. <br/>  
 
 📧 Email: [josiahmonday700@gmail.com](mailto:josiahmonday700@gmail.com)  <br/>
-🌐 Portfolio: [https://my-portfolio-online.netlify.app](https://my-portfolio-online.netlify.app/)  <br/>
+🌐 Portfolio: [https://my-portfolio-online.netlify.app](https://josiahfolio.netlify.app/)  <br/>
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/josiah-monday)
 
 
